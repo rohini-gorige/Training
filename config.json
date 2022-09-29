@@ -1,0 +1,14 @@
+{     
+      "configlogs" :[
+            {
+                  "fileName" :"demo.txt",
+                  "maxAge": 0,
+                  "maxBackups": 5,
+                  "maxSize": 10,
+                  "localTime": true,
+                  "compress": true
+            }
+
+      ]
+
+}
